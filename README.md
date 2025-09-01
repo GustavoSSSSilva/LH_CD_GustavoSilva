@@ -8,18 +8,20 @@ Este projeto foi desenvolvido como parte do desafio de Cientista de Dados da Ind
 
 - `EDA.pdf/`: Contém o PDF com a análise exploratória de dados (EDA).
 - `EDA.ipynb/`: Contém o Jupyter Notebook, com a análise exploratória de dados (EDA).
-- `modelo_preditivo_imdb.pkl/`: Contém o modelo salvo em formato `.pkl`.
+- `modelo_preditivo_imdb.pkl/`: Contém o modelo salvo em formato `.pkl`
+- `modelo_preditivo_imdb.ipynb/`: Contém o Jupyter Notebook para a ciração do modelo preditivo.
 - `respostas.pdf/`: Contém a respostas as perguntas dos passos 2, 3 e 4 do desafio em formato PDF.
 - `respostas.ipynb/`: Contém a respostas as perguntas dos passos 2, 3 e 4 em um Jupyter Notebook.
 - `requirements.txt`: Lista de pacotes Python necessários.
 - `README.md`: Instruções sobre como instalar e executar o projeto.
+- `desafio_indicium_imdb.csv`: Dataset fornecido pela Indicium e usado no projeto.
 
 ## Instalação
 
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/desafio-cientista-dados.git
+   https://github.com/GustavoSSSSilva/LH_CD_GustavoSilva.git
    cd desafio-cientista-dados
 
 2. **Crie um ambiente virtual:**
