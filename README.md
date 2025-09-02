@@ -11,6 +11,7 @@ Este projeto foi desenvolvido como parte do desafio de Cientista de Dados da Ind
 - `modelo_preditivo_imdb.pkl/`: Contém o modelo salvo em formato `.pkl`
 - `modelo_preditivo_imdb.ipynb/`: Contém o Jupyter Notebook para a ciração do modelo preditivo.
 - `respostas.pdf/`: Contém a respostas as perguntas dos passos 2, 3 e 4 do desafio em formato PDF.
+- `Previsão.ipynb/`: Contém o Jupyter Notebook usado para testar o modelo preditivo com filmes do dataset.
 - `respostas.ipynb/`: Contém a respostas as perguntas dos passos 2, 3 e 4 em um Jupyter Notebook.
 - `requirements.txt`: Lista de pacotes Python necessários.
 - `README.md`: Instruções sobre como instalar e executar o projeto.
@@ -40,6 +41,7 @@ Este projeto foi desenvolvido como parte do desafio de Cientista de Dados da Ind
 - `Modelagem Preditiva:/`: O notebook Modelo_preditivo.ipynb contém o modelo de previsão de notas IMDb.
 - `respostas:/`: As respostas das perguntas estão disponíveis em respostas.pdf e em respostas.ipynb.
 - `Modelo Salvo:/`: O modelo preditivo treinado está salvo em modelo_preditivo_imdb.pkl. Você pode carregá-lo em Python para fazer previsões.
+- `Testar Modelo:/`: O modelo preditivo pode ser usado no arquivo Previsão.ipynb para prever a nota filmes do dataset.
   
   ## Carregando o Modelo
 
